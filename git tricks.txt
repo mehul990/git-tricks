@@ -1,0 +1,23 @@
+IN A OLD FOLDER-----------------------------
+
+git add .
+
+git commit -m "yourcustommessage"
+
+git push origin master
+
+---------------------------------------------
+
+
+IN A NEW FOLDER
+
+git init
+
+git remote add origin https://github.com/mehul990/C-.git
+
+git add .
+
+git commit -m "yourcustommessage"
+
+git push origin master
+
